@@ -66,4 +66,5 @@ TENTANG SISTEM PRESENSI IOT!!
 Proyek ini bukan sekadar alat absen biasa; ini adalah bukti nyata bagaimana perangkat keras (*Hardware IoT*) dan *Web Development* bisa berkolaborasi menciptakan *impact* yang besar. Dari *backend* yang kebal absen ganda, hingga *frontend* yang *user-friendly*, sistem ini siap membuat manajemen absensi jadi seru, modern, dan tentunya—bebas pusing!
 
 *Code with passion, build for the future!* 🚀
-made by : NONOOOIRRR --All rights reserved - PT RIDIKC INDUSTRIES INDONESIA
+
+made by : NONOOOIRRR -- All rights reserved - PT RIDIKC INDUSTRIES INDONESIA
