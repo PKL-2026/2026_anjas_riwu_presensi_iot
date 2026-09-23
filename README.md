@@ -1,4 +1,4 @@
-# 🚀 Sistem Presensi Berbasis IoT (Fingerprint AS608 & ESP32)
+# 🚀 Tentang alat presensi ini
 
 Sebuah solusi presensi modern dan cerdas yang mengintegrasikan perangkat keras IoT (Internet of Things) dengan portal manajemen web, Google Spreadsheet, dan notifikasi WhatsApp secara *real-time*.
 
@@ -43,5 +43,9 @@ Jika alat dibawa ke tempat baru atau terjadi perubahan jaringan, ikuti langkah b
    - **URL Google Sheet Apps Script** (Jika menggunakan Sheet baru).
    - **API Token Fonnte & Target Grup WA** (Jika ada perubahan grup).
 
-### 3. Pemeliharaan Database
+### 3. Konfigurasi Lokal (Menjalankan di Laptop)
+- **Koneksi Database:** Jangan lupa ubah bagian `koneksi.php` jika ingin menarik filenya dan menjalankannya di dalam laptopmu (sesuaikan *host*, *user*, dan *password* lokalmu).
+- **Alat ESP32:** Jika web dijalankan di laptop, pastikan `const char* serverBase` di `anjas.ino` diubah menjadi IP Address laptopmu.
+
+### 4. Pemeliharaan Database
 - Jangan mengunggah file `migrasi.sql` ke folder publik (public_html) demi keamanan. File tersebut hanya di-import 1 kali ke phpMyAdmin saat pertama setup server.
