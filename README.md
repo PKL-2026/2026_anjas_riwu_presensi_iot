@@ -53,13 +53,17 @@ Mau bawa alat ini *traveling* atau ganti Wi-Fi? Gampang!
 - **Alat ESP32:** Kalau web dijalankan di laptop (localhost), pastikan `const char* serverBase` di `anjas.ino` diganti jadi *IP Address* lokal laptopmu (misal: `http://192.168.x.x`).
 
 
+
+
 ## UNTUK PETUNJUK PENGGUNAAN SILAHKAN CEK YOUTUBE LAB ROBOTIKA YA
 TENTANG SISTEM PRESENSI IOT!!
 
-made by : NONOOOIRRR --All rights reserved - PT RIDIKC INDUSTRIES INDONESIA
+
+
 ---
 
 ## 🎯 Kesimpulan: *Tech Meets Practicality*
 Proyek ini bukan sekadar alat absen biasa; ini adalah bukti nyata bagaimana perangkat keras (*Hardware IoT*) dan *Web Development* bisa berkolaborasi menciptakan *impact* yang besar. Dari *backend* yang kebal absen ganda, hingga *frontend* yang *user-friendly*, sistem ini siap membuat manajemen absensi jadi seru, modern, dan tentunya—bebas pusing!
 
 *Code with passion, build for the future!* 🚀
+made by : NONOOOIRRR --All rights reserved - PT RIDIKC INDUSTRIES INDONESIA
