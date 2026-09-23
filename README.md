@@ -17,7 +17,7 @@ Sebuah solusi presensi super *seamless* yang mengawinkan perangkat keras IoT den
 - 👆 Sensor Sidik Jari **AS608** (Mata pencari sidik jari)
 - 📟 Layar **LCD I2C 16x2** (Biar interaktif)
 - 🔊 **Buzzer** (Pemberi *feedback* asik: 1 *beep* sukses, 3 *beep* gagal)
-- 🔌 **Adaptor 12v** (Tanpa harus colok ke laptop *dan* ada *stepdown* yang mengubah *12v* jadi *5v*)
+- 🔌 **Adaptor 12v** (Tanpa harus colok ke laptop *dan* ada *stepdown* juga! yang mengubah *12v* jadi *5v*)
 
 **Software & Web Server (Perangkat Lunak):**
 - 💻 **C++ (Arduino IDE):** Doping *HTTPClient* & *ArduinoJson* buat ESP32.
@@ -52,6 +52,11 @@ Mau bawa alat ini *traveling* atau ganti Wi-Fi? Gampang!
 - **Koneksi Database:** Mau narik kode ini ke XAMPP/Docker lokalmu? Jangan lupa sesuaikan *host*, *user*, dan *password* di file `koneksi.php`.
 - **Alat ESP32:** Kalau web dijalankan di laptop (localhost), pastikan `const char* serverBase` di `anjas.ino` diganti jadi *IP Address* lokal laptopmu (misal: `http://192.168.x.x`).
 
+
+## UNTUK PETUNJUK PENGGUNAAN SILAHKAN CEK YOUTUBE LAB ROBOTIKA YA
+TENTANG SISTEM PRESENSI IOT!!
+
+made by : NONOOOIRRR --All rights reserved - PT RIDIKC INDUSTRIES INDONESIA
 ---
 
 ## 🎯 Kesimpulan: *Tech Meets Practicality*
